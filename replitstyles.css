@@ -27,13 +27,13 @@ body {
 }
 
 .left_header {
-    padding: 10px 0px 0px 0px ;
+    padding: 20px 0px 0px 0px ;
     width: 40vw;
     margin-left: -10vw;
 }
 
 .links {
-    padding: 10px 0px 0px 0px ;
+    padding: 20px 0px 0px 0px ;
     width: 60%;
     display: flex;
     justify-content: space-around;
