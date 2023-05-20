@@ -27,11 +27,13 @@ body {
 }
 
 .left_header {
+    padding: 10px 0px 0px 0px ;
     width: 40vw;
     margin-left: -10vw;
 }
 
 .links {
+    padding: 10px 0px 0px 0px ;
     width: 60%;
     display: flex;
     justify-content: space-around;
@@ -52,7 +54,7 @@ body {
 }
 
 .thirdbox {
-    margin-top: 14%;
+    margin-top: 13%;
     text-align: center;
     padding:0px 0px 40px 0px ;
 }
